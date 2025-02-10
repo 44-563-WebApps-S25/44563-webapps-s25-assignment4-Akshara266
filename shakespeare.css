@@ -1,0 +1,49 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.stage-direction {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.stage-direction:hover {
+    background-color: #d0d0d0;
+    color: #333;
+}
+
+.name {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.shallow {
+    color: blue;
+}
+
+.slender {
+    color: green;
+}
+
+.sir-hugh-evans {
+    color: purple;
+}
+
+.page {
+    color: red;
+}
+
+.falstaff {
+    color: darkorange;
+}
+
+.anne-page {
+    color: teal;
+}
