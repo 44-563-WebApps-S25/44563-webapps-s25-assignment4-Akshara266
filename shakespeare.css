@@ -78,3 +78,11 @@
     margin: 20px;
   }
   
+/* Hover effect for character names */
+.name:hover {
+    text-shadow: 0 0 15px #ff6347, 0 0 30px #ff4500, 0 0 45px #ff1493; /* Shadow with an interesting color */
+    border: 2px solid #ff6347; /* Border with a color to match the shadow */
+    padding: 5px;
+    transition: all 0.3s ease-in-out; /* Smooth transition effect */
+  }
+  
